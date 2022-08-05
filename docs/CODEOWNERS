@@ -1,0 +1,15 @@
+@Fodsuk
+
+# EXAMPLES
+# the syntax is similiar to .gitignore
+# you can use either specific people @fodsuk or teams @my-org/coolcats
+
+# requires approve from these guys for EVERYTHING
+# @fodsuk
+#
+# requires for specific file types
+# .tf @fodsuk
+#
+# folders
+# /docs @fodsuk
+# /docs/* @fodsuk (* will restrict it 1 level e.g. only files in /docs/)
