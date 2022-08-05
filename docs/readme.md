@@ -5,4 +5,4 @@
 Welcome, this my interpretation of a well configured GitHub repository.
 No commiting to main directly! Obviously!
 
-[Lets get going](docs/start_here.md)
+[Lets get going](start_here.md)
